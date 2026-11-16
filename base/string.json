@@ -1,0 +1,43 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "font": {
+      "font-mono": {
+        "value": "Geist Mono",
+        "type": "string"
+      },
+      "font-sans": {
+        "value": "Geist",
+        "type": "string"
+      },
+      "font-serif": {
+        "value": "Georgia",
+        "type": "string"
+      }
+    },
+    "heading-xl": {
+      "font-family": {
+        "value": "{string.font.font-sans}",
+        "type": "string"
+      }
+    },
+    "heading-lg": {
+      "font-family": {
+        "value": "{string.font.font-sans}",
+        "type": "string"
+      }
+    },
+    "heading-md": {
+      "font-family": {
+        "value": "{string.font.font-sans}",
+        "type": "string"
+      }
+    },
+    "heading-sm": {
+      "font-family": {
+        "value": "{string.font.font-sans}",
+        "type": "string"
+      }
+    }
+  }
+}
